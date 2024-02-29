@@ -1,0 +1,5 @@
+.shell pwsh
+
+# focus windows with komorebi
+
+alt + Enter : alacritty

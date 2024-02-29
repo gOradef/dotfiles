@@ -1,0 +1,26 @@
+[font]
+size = 10.0
+
+[font.bold]
+family = "Firacode Nerd Font"
+
+[font.italic]
+family = "Firacode Nerd Font"
+
+[font.normal]
+family = "Firacode Nerd Font"
+
+[window]
+decorations = "none"
+opacity = 0.9
+
+[bell]
+animation = "EaseOutExpo"
+color = "0xffffff"
+duration = 0
+
+[selection]
+save_to_clipboard = false
+
+[cursor]
+style = "beam"
